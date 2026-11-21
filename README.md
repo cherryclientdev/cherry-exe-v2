@@ -1,10 +1,8 @@
-# Cherry Client Launcher
+# Cherry Client Launcher — frozen 1.0.95 channel
 
-Репозиторий релизов лаунчера Cherry Client.
+Этот репозиторий заморожен на версии `1.0.95`.
 
-- Актуальная версия: `1.0.95`
-- Скачать: [Releases](https://github.com/cherryclientdev/cherry-exe-v2/releases/latest)
-- Сайт: https://cherry-client-site.pages.dev/
-- Discord: https://discord.gg/mmHXHuFV6y
-
-Лаунчер начиная с `1.0.95` проверяет обновления в этом репозитории.
+- Новых релизов здесь не будет.
+- Лаунчер `1.0.95` больше не получает обновления.
+- Новый канал: [cherry-exe-v3](https://github.com/cherryclientdev/cherry-exe-v3)
+- Новый лаунчер: [v1.0.96](https://github.com/cherryclientdev/cherry-exe-v3/releases/tag/v1.0.96)
